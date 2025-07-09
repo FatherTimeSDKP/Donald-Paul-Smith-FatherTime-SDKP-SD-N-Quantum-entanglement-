@@ -1,0 +1,20 @@
+name: Citation-Monitor
+
+on:
+  schedule:
+    - cron: '0 10 * * 1'  # weekly, Monday at 10:00 UTC
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run monitor
+        run: python validate_citation.py > report.txt
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: citation-report
+          path: report.txt
