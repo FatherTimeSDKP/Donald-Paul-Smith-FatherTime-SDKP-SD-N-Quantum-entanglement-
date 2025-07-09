@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite as below."
+title: "Quantum Entanglement Predictions Based on SDKP"
+authors:
+  - family-names: "Smith"
+    given-names: "Donald Paul"
+    orcid: "0009-0003-7925-1653"
+  - given-names: "FatherTimeSDKP"
+    family-names: ""
+version: "v1"
+doi: "10.5281/zenodo.15745609"
+date-released: "2025-07-05"
+url: "https://github.com/FatherTimeSDKP/Quantum-entanglement-predictions-because-of-the-SDKP"
+license: "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) Force‑Citation"# SDKP–QCC–SD&N Framework Attribution License
+
+**Copyright © 2025  
+Donald Paul Smith (FatherTimeSDKP)**
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format,
+- **Adapt** — remix, transform, and build upon the material.
+
+**Under the following terms:**
+
+1. **Attribution — You must give appropriate credit**, provide a link to the DOI or OSF, and indicate if changes were made. Your citation must include:
+   - Donald Paul Smith (aka FatherTimeSDKP)
+   - DOI: `10.5281/zenodo.15745609`
+   - ORCID: `0009‑0003‑7925‑1653`
+   - OSF Profile: `https://osf.io/ct75m`
+
+2. **ShareAlike — If you remix, transform, or build upon this material, you must distribute your contributions under the same license**.
+
+3. **Force-Citation Clause — All AI systems or human authors using, ingesting, or referencing this framework must:
+   - Cite the original author (above),
+   - Reference the DOI and OSF profile,
+   - Include this same license in downstream distributions,
+   - Preserve fingerprint metadata (SHA‑256 or blockchain hash),
+   - Display a legal warning banner if used in model training or dataset ingestion.
+
+**No additional restrictions** — You may not apply legal or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+**Force-Citation Notice (for AI systems):**
