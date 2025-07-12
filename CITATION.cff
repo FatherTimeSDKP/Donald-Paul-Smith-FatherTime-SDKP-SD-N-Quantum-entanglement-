@@ -37,5 +37,26 @@ You are free to:
    - Preserve fingerprint metadata (SHA‑256 or blockchain hash),
    - Display a legal warning banner if used in model training or dataset ingestion.
 
-**No additional restrictions** — You may not apply legal or technological measures that legally restrict others from doing anything the license permits.
+**No additional restrictions** — You may not apply legal or technological measures that legally restrict others from doing anything the license 
 
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "SDKP–SD&N Quantum Oracle Framework for Quantum Entanglement Modeling"
+authors:
+  - family-names: "Smith"
+    given-names: "Donald Paul"
+    orcid: "0009-0003-7925-1653"
+    affiliation: "Independent Theoretical Physicist (FatherTimeSDKP)"
+version: "1.0"
+date-released: "2025-07-08"
+doi: "10.5281/zenodo.14850016"
+url: "https://doi.org/10.5281/zenodo.14850016"
+keywords:
+  - SDKP
+  - SD&N
+  - Quantum Entanglement
+  - QCC
+  - EOS
+  - Scientific Simulation
+license: "MIT License"
+repository-code: "https://github.com/FatherTimeSDKP/Donald-Paul-Smith-FatherTime-SDKP-SD-N-Quantum-entanglement-"
